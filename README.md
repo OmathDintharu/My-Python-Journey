@@ -7,3 +7,4 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 04: Python Lists Base ✅ (Learned Indexing & Append)
  *  [x] Day 05: Python Iterations & Security Logic 🛡️ ✅ (Learned `for` loops & Brute Force Simulation)
  *  [x] Day 06: Python Logical Operators 🧠 🛡️ (Learned and, or, not & Interactive Security Logic)
+ *  [x] Day 07: Python Functions & Advanced RBAC Logic 🛡️ ✅ (Learned Functions, Multi-level Auth & Debugging scoping errors)
