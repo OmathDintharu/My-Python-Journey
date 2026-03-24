@@ -10,7 +10,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 07: Python Functions & RBAC 🛡️ ✅ (Learned Functions, Auth Logic & Debugging)
  *  [x] Day 08: File Handling & Security Logging 📁 ✅ (Implemented Security Event Logger with Timestamps)
  *  [x] Day 09: Python List Comprehensions 🪄 ✅ (Learned One-liners, f-strings & Data Filtering)
-
+ *  [x] Day 10: Python Dictionaries & Data Vaults 🔐 ✅ (Learned Key-Value pairs, Dictionary Methods & Secure Data Mapping)
 
 
 
