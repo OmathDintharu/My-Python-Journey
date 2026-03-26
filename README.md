@@ -12,6 +12,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 09: Python List Comprehensions 🪄 ✅ (Learned One-liners, f-strings & Data Filtering)
  *  [x] Day 10: Python Dictionaries 🔐 ✅ (Data Vaults & Key-Value Mapping)
  *  [x] Day 11: Python Control Flow & Access Control 🚦 🛡️ ✅ (Implemented Multi-level Auth Logic)
+ *  [x] Day 12: Python While Loops & Secure Login 🔐 ✅ (Implemented Secure Retry Logic and Brute-force Protection) 
 
 
 
