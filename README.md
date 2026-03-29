@@ -15,6 +15,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 12: Python While Loops & Secure Login 🔐 ✅ (Brute-force Protection Logic)
  *  [x] Day 13: Python List Security Logic 🔐 ✅ (Implemented Character Filtering & Access Control)
  *  [x] Day 14: Python Functions ⚙️ ✅ (Modularizing Security Logic)
+ *  [x] Day 15: Automated File Organizer 📂 ✅ (Implemented OS Automation & File Management Logic)
 
 ---
 > [!NOTE]
