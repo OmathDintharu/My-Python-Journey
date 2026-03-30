@@ -1,6 +1,6 @@
 class CoffeeMachine:
     def __init__(self, brand, water_level):
-        # Attributes (දත්ත)
+        
         self.brand = brand
         self.water_level = water_level
         print(f"--- {self.brand} Coffee Machine is ready !")
@@ -16,7 +16,9 @@ class CoffeeMachine:
 
 my_machine = CoffeeMachine("Omath's Special", 500)
 
-# 3. මැෂින් එක පාවිච්චි කරමු
+
 my_machine.make_coffee(150)
 my_machine.make_coffee(200)
 my_machine.make_coffee(200)
+
+input("\n Press Power Button to exit...")
