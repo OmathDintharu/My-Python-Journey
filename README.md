@@ -16,7 +16,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 13: Python List Security Logic 🔐 ✅ (Implemented Character Filtering & Access Control)
  *  [x] Day 14: Python Functions ⚙️ ✅ (Modularizing Security Logic)
  *  [x] Day 15: Automated File Organizer 📂 ✅ (Implemented OS Automation & File Management Logic)
- *  [x] Day 16: OOP Coffee Machine ☕ ✅ (Mastered Class/Object Logic & Scalable Security Foundations)
+ *  [x] Day 16: OOP Coffee Machine ☕ ✅ (Learned Class/Object Logic & Scalable Security Foundations)
 
 ---
 > [!NOTE]
