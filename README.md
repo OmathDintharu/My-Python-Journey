@@ -21,6 +21,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 18: OOP Polymorphism & Security Logic ✅🛡️(Dynamic Security Tool Handling & Method Overriding)
  *  [x] Day 19: Mastering Documentation [Docstrings/Headers] & Data Lists ✅🐍✨ (#RevisionReady)
  *  [x] Day 20: Exception Handling 🛡️ ✅ (Learned try, except & finally for Secure Logic)
+ *  [x] Day 21: Secure Log Handling 🛡️💻 (Secure Error Tracking) & filter (Threat-Data) from system logs.
 
 ---
 > [!NOTE]
