@@ -23,6 +23,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 20: Exception Handling 🛡️ ✅ (Learned try, except & finally for Secure Logic)
  *  [x] Day 21: Secure Log Handling 🛡️💻 (Secure Error Tracking) & filter (Threat-Data) from system logs.
  *  [x] Day 22: Python Encapsulation 🛡️ ✅ (Implemented Private Attributes & Security Vault Logic)
+ *  [x] Day 23: F-Strings & Formatting 🛡️ ✅ (Implemented Dynamic Report Generation & Cleaner Output)
 
 ---
 > [!NOTE]
