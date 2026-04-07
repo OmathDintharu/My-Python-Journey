@@ -15,4 +15,4 @@ def mission_2034():
 
 mission_2034()
 
-input("Press enter to exit...")
+input("\nPress enter to exit...")
