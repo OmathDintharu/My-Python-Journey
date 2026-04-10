@@ -27,6 +27,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 24: Secure File Handling 🛡️📂 (open, read, and safely close sys logs using Context Managers).
  *  [x] Day 25: Senior-Level Logic & String Analytics 🛡️ 🐍 (High-Speed One-Liner for Text Data Density)
  *  [x] Day 26: Network Security Audit 🛡️ ✅ (Automated IP Validation & Unauthorized Access Filtering)
+ *  [x] Day 27: Developed a Simple Port Scanner using Socket Programming to identify open network ports.🛡️✅
 
 ---
 > [!NOTE]
