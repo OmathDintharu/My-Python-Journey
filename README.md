@@ -33,6 +33,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 30: Learned Dictionary Filtering logic 🚀✅ (Completed 30 days of consistent Python coding!)
  *  [x] Day 31: Learned again List Methods ⏰✅ (Implemented slicing and sorting & [.append/.remove] commands)
  *  [x] Day 32: Learned Time Tracking ⏰✅ (Explored the `time` module for system logs)
+ *  [x] Day 33: RE-Learned about F- strings ⏰✅(Learned again how to use Formatted strings in python code.) 
 ---
 > [!NOTE]
 > **Repository Refactored:** 2026-03-21 | 06:23 PM  
