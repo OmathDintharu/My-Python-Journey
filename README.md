@@ -38,6 +38,7 @@ A collection of my Python programming journey, focused on building a solid found
  *  [x] Day 35: Wrote a code about me #2  😊✅ (I called that brain optimizer.)
  *  [x] Day 36: Wrote a code about me #3 🎵😊✅ (Simple Function Logic code.)
  *  [x] Day 37: Security & Activation tool 🔐🛡️✅ (simple python Security & Activation code.)
+ *  [ ] dfdfd
 
 ---
 > [!NOTE]
