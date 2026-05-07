@@ -1,0 +1,79 @@
+2026-05-07 21:19:51,222: Key pressed: q
+2026-05-07 21:19:51,423: Key pressed: w
+2026-05-07 21:19:51,620: Key pressed: e
+2026-05-07 21:19:51,826: Key pressed: r
+2026-05-07 21:19:52,014: Key pressed: t
+2026-05-07 21:19:52,242: Key pressed: y
+2026-05-07 21:19:52,458: Key pressed: y
+2026-05-07 21:19:52,807: Key pressed: u
+2026-05-07 21:19:53,300: Key pressed: o
+2026-05-07 21:19:53,423: Key pressed: t
+2026-05-07 21:19:53,633: Key pressed: r
+2026-05-07 21:19:53,937: Key pressed: k
+2026-05-07 21:19:54,035: Key pressed: g
+2026-05-07 21:19:54,039: Key pressed: h
+2026-05-07 21:19:54,136: Key pressed: k
+2026-05-07 21:19:54,137: Key pressed: j
+2026-05-07 21:19:54,249: Key pressed: h
+2026-05-07 21:19:54,308: Key pressed: k
+2026-05-07 21:19:54,309: Key pressed: j
+2026-05-07 21:19:54,362: Key pressed: r
+2026-05-07 21:19:54,374: Key pressed: g
+2026-05-07 21:19:54,437: Key pressed: h
+2026-05-07 21:19:54,502: Key pressed: j
+2026-05-07 21:19:54,507: Key pressed: k
+2026-05-07 21:19:54,524: Key pressed: r
+2026-05-07 21:19:54,646: Key pressed: j
+2026-05-07 21:19:54,657: Key pressed: i
+2026-05-07 21:19:54,791: Key pressed: h
+2026-05-07 21:19:54,873: Key pressed: f
+2026-05-07 21:19:56,232: Special key pressed: Key.enter
+2026-05-07 21:19:56,398: Special key pressed: Key.enter
+2026-05-07 21:19:56,541: Special key pressed: Key.enter
+2026-05-07 21:19:58,355: Special key pressed: Key.caps_lock
+2026-05-07 21:19:58,726: Key pressed: h
+2026-05-07 21:19:58,837: Special key pressed: Key.caps_lock
+2026-05-07 21:19:59,178: Key pressed: e
+2026-05-07 21:19:59,396: Key pressed: l
+2026-05-07 21:19:59,541: Key pressed: l
+2026-05-07 21:19:59,698: Key pressed: o
+2026-05-07 21:20:00,048: Special key pressed: Key.space
+2026-05-07 21:20:00,623: Key pressed: y
+2026-05-07 21:20:00,720: Key pressed: u
+2026-05-07 21:20:00,918: Key pressed: i
+2026-05-07 21:20:01,595: Key pressed: .
+2026-05-07 21:20:01,741: Key pressed: .
+2026-05-07 21:20:01,875: Key pressed: .
+2026-05-07 21:20:03,409: Special key pressed: Key.enter
+2026-05-07 21:20:03,611: Special key pressed: Key.enter
+2026-05-07 21:20:04,056: Special key pressed: Key.caps_lock
+2026-05-07 21:20:04,261: Key pressed: h
+2026-05-07 21:20:04,379: Special key pressed: Key.caps_lock
+2026-05-07 21:20:04,901: Key pressed: e
+2026-05-07 21:20:05,124: Key pressed: l
+2026-05-07 21:20:05,261: Key pressed: l
+2026-05-07 21:20:05,421: Key pressed: o
+2026-05-07 21:20:06,067: Special key pressed: Key.space
+2026-05-07 21:20:06,496: Special key pressed: Key.caps_lock
+2026-05-07 21:20:06,892: Key pressed: y
+2026-05-07 21:20:07,041: Special key pressed: Key.caps_lock
+2026-05-07 21:20:07,193: Key pressed: u
+2026-05-07 21:20:07,357: Key pressed: i
+2026-05-07 21:20:07,645: Special key pressed: Key.space
+2026-05-07 21:20:08,736: Special key pressed: Key.caps_lock
+2026-05-07 21:20:08,860: Key pressed: i
+2026-05-07 21:20:09,005: Special key pressed: Key.caps_lock
+2026-05-07 21:20:10,249: Key pressed: '
+2026-05-07 21:20:10,576: Key pressed: m
+2026-05-07 21:20:10,742: Special key pressed: Key.space
+2026-05-07 21:20:11,115: Special key pressed: Key.caps_lock
+2026-05-07 21:20:11,122: Special key pressed: Key.shift
+2026-05-07 21:20:11,230: Key pressed: o
+2026-05-07 21:20:11,382: Special key pressed: Key.caps_lock
+2026-05-07 21:20:11,594: Key pressed: m
+2026-05-07 21:20:11,783: Key pressed: a
+2026-05-07 21:20:12,056: Key pressed: t
+2026-05-07 21:20:12,177: Key pressed: h
+2026-05-07 21:20:12,516: Key pressed: d
+2026-05-07 21:20:13,437: Special key pressed: Key.enter
+2026-05-07 21:20:14,447: Special key pressed: Key.esc
